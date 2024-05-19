@@ -17,7 +17,7 @@ This API allows users to track their sleep duration by submitting records with t
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/Dev-the-coder/Sleep-tracker-api.git
+   git clone https://github.com/Dev-the-coder/Sleep-tracker-API.git
    cd sleep-tracker-api
    ```
 
